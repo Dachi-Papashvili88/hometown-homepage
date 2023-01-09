@@ -31,7 +31,7 @@ There are many ways for hosting project for free. Best recommend hosts are:
 
 ### Screenshot
 
-![](./screenshot)
+![](./image)
 
 
 
